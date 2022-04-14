@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @PeetzaYT
+- 👀 I’m interested in programming languages  ...
+- 🌱 I’m currently learning javascript,Python and php and maybe poo in the future...
+- 📫 How to reach me bouayadyassine5@gmail.com ...
+
+<!---
+PeetzaYT/PeetzaYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
